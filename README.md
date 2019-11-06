@@ -1,1 +1,3 @@
 # Chord_Generation_LSTM
+
+### Chords progressions are the foundation of Western music. Automatic chords generation can help the musicians to compose more efficiently. This project is to apply Long Short-term memory (LSTM) network to learn the relationship between chords, and use that to generate new chords. Randomly inputting 8 seed chords into the trained model, an arbitrary length chord sequence can be produced. The listening test is arranged to evaluate the prediction quality. Test result verifies that people cannot detect the difference between LSTM produced chord progressions and real chord progressions.
